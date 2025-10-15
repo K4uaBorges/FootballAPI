@@ -14,24 +14,21 @@ http://football-data.org
 
 2. **Make a request**  
    - After this in file main.mjs put your API key
-     ```
-     Your API key was send by mail
-     Put your API key inside the ''
-     ```
+   
    - In teamsID, replace or add a ID's who have
+
    - After this open your terminal and put a code
     ```
     node main.mjs
     ```
 
-3. **Results**  
+4. **Results**  
     -Finishing, the API gonna create a file, in order of teamsID, for each club. 
 
-# Example
-
-
----
-
+## Remember       
+   - Your API key was send by mail
+   - Put your API key inside the ''
+     
 ## Example Response
 
 ```json
