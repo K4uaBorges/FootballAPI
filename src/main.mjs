@@ -1,11 +1,8 @@
 import { fetchDataAsync } from "../src/script.mjs"
 import teams from "../src/teamsID.json" assert { type: 'json' };
 
-/**
- * 
- * Function @param main is just for test
+/** 
  * For use put your API token/key in Key and erase "//"
- * 
  */
 
 //const Key = 'PUT HERE YOUR API KEY'
