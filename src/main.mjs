@@ -8,7 +8,7 @@ import teams from "../src/teamsID.json" assert { type: 'json' };
  * 
  */
 
-const Key = 'PUT HERE YOUR API KEY'
+//const Key = 'PUT HERE YOUR API KEY'
 
 function main(){
 
