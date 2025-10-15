@@ -27,7 +27,7 @@ http://football-data.org
 
 ## Remember       
    - Your API key was send by mail
-   - Put your API key inside the ''
+   - Put your API key inside the '   '
      
 ## Example Response
 
